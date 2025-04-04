@@ -1,6 +1,12 @@
-# Medical Equipment Failure & Cost Analysis
-
+# Medical Equipment Failure & Cost Analysis  
 *Franco Pérez Rivera — Data Portfolio Project – 2025*
+
+![Python](https://img.shields.io/badge/Python-3.9-blue?logo=python&logoColor=white)  
+![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-yellow?logo=powerbi&logoColor=black)  
+![Data Cleaning](https://img.shields.io/badge/Data--Cleaning-✔️-blue)  
+![EDA](https://img.shields.io/badge/Exploratory%20Data%20Analysis-✔️-orange)  
+![Hospital Analytics](https://img.shields.io/badge/Healthcare%20Analytics-Focused-lightgreen)
+
 
 ## Table of Contents
 
